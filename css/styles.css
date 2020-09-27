@@ -45,11 +45,11 @@ a{
 .top-container{
     background-color: aquamarine;
     position: relative;
-    padding-top: 100px;
+    padding-top: 100%;
 }
 
 .middle-container{
-    margin: 100px 0;  
+    margin: 100% 0;  
 }
 
 .bottom-container{
